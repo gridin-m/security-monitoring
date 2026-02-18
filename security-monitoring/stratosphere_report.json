@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-02-18T11:44:47.147280",
+  "data_source": "CTU-13 Dataset - Neris Botnet",
+  "infected_ip": "147.32.84.165",
+  "statistics": {
+    "total_logs": 88,
+    "total_threats": 19
+  },
+  "threats": [
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "r1-ads.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682633"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "r1-ads.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682636"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cms.ad.yieldmanager.net",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682640"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cms.ad.yieldmanager.net",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682644"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.rm.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682646"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "ad.yieldmanager.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682652"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.dc.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682656"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.am.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682658"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.rub.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682663"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "pixel.rubiconproject.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682665"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.an.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682669"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "uac.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682726"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.am.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682730"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "cmap.rub.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682731"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "bannerfarm.ace.advertising.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682735"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "content.yieldmanager.com",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682763"
+    },
+    {
+      "source": "domain_analysis",
+      "type": "suspicious_domain",
+      "domain": "content.yieldmanager.edgesuite.net",
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:26.682764"
+    },
+    {
+      "source": "virustotal",
+      "type": "malicious_domain",
+      "domain": "ad.yieldmanager.com",
+      "malicious": 1,
+      "suspicious": 0,
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:31.924639"
+    },
+    {
+      "source": "virustotal",
+      "type": "malicious_domain",
+      "domain": "content.yieldmanager.com",
+      "malicious": 1,
+      "suspicious": 0,
+      "severity": "HIGH",
+      "timestamp": "2026-02-18T11:44:37.845598"
+    }
+  ]
+}

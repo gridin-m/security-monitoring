@@ -1,0 +1,138 @@
+{
+  "147.32.84.165": {
+    "timestamp": "2026-02-18T10:34:37.029470",
+    "data": {
+      "malicious": 12,
+      "suspicious": 3,
+      "harmless": 0,
+      "undetected": 35
+    }
+  },
+  "147.32.84.170": {
+    "timestamp": "2026-02-18T10:34:37.030136",
+    "data": {
+      "malicious": 8,
+      "suspicious": 2,
+      "harmless": 0,
+      "undetected": 40
+    }
+  },
+  "147.32.84.155": {
+    "timestamp": "2026-02-18T10:34:37.030667",
+    "data": {
+      "malicious": 15,
+      "suspicious": 4,
+      "harmless": 0,
+      "undetected": 31
+    }
+  },
+  "147.32.84.160": {
+    "timestamp": "2026-02-18T10:34:37.031448",
+    "data": {
+      "malicious": 10,
+      "suspicious": 3,
+      "harmless": 0,
+      "undetected": 37
+    }
+  },
+  "domain:pixel.rubiconproject.com": {
+    "timestamp": "2026-02-18T11:44:27.903563",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 30,
+      "harmless": 63,
+      "timeout": 0
+    }
+  },
+  "domain:cmap.am.ace.advertising.com": {
+    "timestamp": "2026-02-18T11:44:29.888693",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 93,
+      "harmless": 0,
+      "timeout": 0
+    }
+  },
+  "domain:ad.yieldmanager.com": {
+    "timestamp": "2026-02-18T11:44:31.922775",
+    "data": {
+      "malicious": 1,
+      "suspicious": 0,
+      "undetected": 31,
+      "harmless": 61,
+      "timeout": 0
+    }
+  },
+  "domain:bannerfarm.ace.advertising.com": {
+    "timestamp": "2026-02-18T11:44:33.885408",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 36,
+      "harmless": 57,
+      "timeout": 0
+    }
+  },
+  "domain:content.yieldmanager.edgesuite.net": {
+    "timestamp": "2026-02-18T11:44:35.843603",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 29,
+      "harmless": 64,
+      "timeout": 0
+    }
+  },
+  "domain:content.yieldmanager.com": {
+    "timestamp": "2026-02-18T11:44:37.843669",
+    "data": {
+      "malicious": 1,
+      "suspicious": 0,
+      "undetected": 31,
+      "harmless": 61,
+      "timeout": 0
+    }
+  },
+  "domain:cmap.an.ace.advertising.com": {
+    "timestamp": "2026-02-18T11:44:39.811396",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 32,
+      "harmless": 61,
+      "timeout": 0
+    }
+  },
+  "domain:cmap.rub.ace.advertising.com": {
+    "timestamp": "2026-02-18T11:44:41.740170",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 31,
+      "harmless": 62,
+      "timeout": 0
+    }
+  },
+  "domain:uac.advertising.com": {
+    "timestamp": "2026-02-18T11:44:43.767892",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 31,
+      "harmless": 62,
+      "timeout": 0
+    }
+  },
+  "domain:r1-ads.ace.advertising.com": {
+    "timestamp": "2026-02-18T11:44:46.144765",
+    "data": {
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 93,
+      "harmless": 0,
+      "timeout": 0
+    }
+  }
+}
